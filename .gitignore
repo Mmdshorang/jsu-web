@@ -25,4 +25,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # dev env
-/constants/dev_env.ts
+/src/constants/dev_env.ts
