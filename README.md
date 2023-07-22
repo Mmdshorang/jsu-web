@@ -41,7 +41,7 @@
 
 ### Fork the project on your own github account:
 
-![Fork Button](https://github.com/s-ras/jsu-web/blob/b998a1494a9efabf205a83eaf8165d59c5f97c99/assets/fork_button.png)
+<img src="https://github.com/s-ras/jsu-web/blob/b998a1494a9efabf205a83eaf8165d59c5f97c99/assets/fork_button.png" alt="fork button" width="10%" height="auto">
 
 ### Clone the project on your local device:
 ```
