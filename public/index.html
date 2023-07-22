@@ -18,10 +18,36 @@
 			rel="manifest"
 			href="%PUBLIC_URL%/manifest.json"
 		/>
+		<link
+			href="https://fonts.googleapis.com/icon?family=Material+Icons"
+			rel="stylesheet"
+		/>
 		<title>JSU Web</title>
 	</head>
 	<body>
-		<noscript>You need to enable JavaScript to run this app.</noscript>
+		<noscript>
+			<div
+				style="
+					display: flex;
+					height: 100vh;
+					flex-direction: column;
+					justify-content: center;
+					align-items: center;
+				"
+			>
+				<h1 style="font-size: 4vw">
+					<strong>
+						You need to enable JavaScript to run this app.
+					</strong>
+				</h1>
+				<i
+					class="material-icons"
+					style="font-size: 10vw"
+				>
+					error_outline
+				</i>
+			</div>
+		</noscript>
 		<div id="root"></div>
 	</body>
 </html>
